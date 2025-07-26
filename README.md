@@ -4,7 +4,7 @@ This project is a data analysis of the famous Indian TV show **Taarak Mehta Ka O
 The aim is to explore patterns in episodes, views, characters, and trends using Python and Jupyter Notebook.
 
 ---
-pip!install pandas matplotlib seaborn
+pip!install pandas, matplotlib, seaborn
 
 ## 📁 Dataset Information
 
@@ -42,4 +42,5 @@ pip!install pandas matplotlib seaborn
 - Title of the episode
 - Favorite Count
 - Episodes with appearances get more likes
+- # plt.savefig('plot.png')
 
